@@ -71,6 +71,15 @@ samchat/
 ```
 
 ---
+## Screenshots
+
+**Landing Screen**
+
+![SamChat Landing](screenshots/chat.png)
+
+**Summarize & Key Points**
+
+![SamChat Summary](screenshots/image.png)
 
 ## Getting Started
 
