@@ -180,7 +180,7 @@ http://localhost:5173
 
 ---
 
-## Implementation Details
+## Implementation
 
 The application currently uses a lightweight retrieval approach.
 
